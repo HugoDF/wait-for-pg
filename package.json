@@ -1,0 +1,35 @@
+{
+  "name": "wait-for-pg",
+  "version": "0.0.0",
+  "description": "Wait for postgres",
+  "main": "index.js",
+  "module": "wait-for-pg.js",
+  "bin": {
+    "wait-for-pg": "./wait-for-pg-cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HugoDF/wait-for-pg.git"
+  },
+  "keywords": [],
+  "author": "Hugo Di Francesco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HugoDF/wait-for-pg/issues"
+  },
+  "homepage": "https://github.com/HugoDF/wait-for-pg#readme",
+  "dependencies": {
+    "esm": "^3.0.62",
+    "meow": "^5.0.0",
+    "pg": "^7.4.3"
+  },
+  "devDependencies": {
+    "np": "^3.0.4"
+  },
+  "esm": {
+    "await": true
+  }
+}
