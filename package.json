@@ -1,7 +1,7 @@
 {
   "name": "wait-for-pg",
   "version": "0.0.1",
-  "description": "Wait for postgres",
+  "description": "Wait for Postgres",
   "main": "index.js",
   "module": "wait-for-pg.js",
   "bin": {
