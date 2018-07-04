@@ -1,6 +1,6 @@
 {
   "name": "wait-for-pg",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Wait for Postgres",
   "main": "index.js",
   "module": "wait-for-pg.js",
