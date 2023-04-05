@@ -22,12 +22,12 @@
   },
   "homepage": "https://github.com/HugoDF/wait-for-pg#readme",
   "dependencies": {
-    "esm": "^3.0.62",
-    "meow": "^5.0.0",
-    "pg": "^7.4.3"
+    "esm": "^3.2.25",
+    "meow": "^9.0.0",
+    "pg": "^8.7.3"
   },
   "devDependencies": {
-    "np": "^3.0.4"
+    "np": "^7.6.1"
   },
   "esm": {
     "await": true
