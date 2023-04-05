@@ -6,7 +6,7 @@ Wait for Postgres
 
 ### Prerequisites
 
-Tested on Node v9 with npm 5.
+Tested on Node v16 with npm 9.
 
 ### Installing
 
